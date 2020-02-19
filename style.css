@@ -1,0 +1,47 @@
+#parent {
+    background-color: rgba(255,0,0,.25);
+    display: flex;
+    width: 100%;
+    /* width: 658px; */
+    flex-direction: column;
+    flex-wrap: wrap; /* Width of the child elements are now respected */
+}
+
+.child {
+    width: 25%;
+    /* width: 150px; */
+}
+
+.child1 {
+    background-color: aquamarine;
+}
+
+.child2 {
+    background-color: firebrick;
+}
+
+.child3 {
+    background-color: goldenrod;
+}
+.child4 {
+    background-color: violet;
+}
+
+.child5 {
+    background-color: greenyellow;
+}
+
+.child6 {
+    background-color: navy;
+}
+.child7 {
+    background-color: coral;
+}
+
+.child8 {
+    background-color: cyan;
+}
+
+.child9 {
+    background-color: lawngreen;
+}
